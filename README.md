@@ -1,7 +1,7 @@
-## ⚙️ Installation & Setup
+##  Installation & Setup
 Follow the steps below to run this project on your local system:
 
-### 1️⃣ Clone the Repository
+###  Clone the Repository
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 
@@ -25,14 +25,14 @@ Tech Stack
 - AI: NLP, ASR, LLM
 
 
-## 🚀 Key Features
+##  Key Features
 - Multilingual query handling with voice support  
 - AI-based real-time response generation (NLP + ASR + LLM)  
 - Backend integration with MongoDB and Node.js  
 - Improved accessibility and service transparency
 
 
-## 📌 About Project
+##  About Project
 This project is an AI-powered Public Service Analyzer platform designed to simplify citizen-government interaction.
 It supports multilingual user queries, voice-based input processing, and generates real-time responses using NLP, ASR, and LLM technologies.
 The platform also includes a backend system and dashboard features for improved service analysis and transparency.
